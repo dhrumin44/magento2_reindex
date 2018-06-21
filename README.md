@@ -18,5 +18,5 @@ Support Magento CE 2.0.x , 2.1.x  and 2.2.x
 
 # Uninstall
 
-  php bin/magento module:uninstall Dmn112_Reindex
+  php bin/magento module:uninstall Dmn112_Reindex<br>
   php bin/magento setup:upgrade
